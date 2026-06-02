@@ -1,2 +1,18 @@
-# unreal-engine-physics-games
-Physics-based game development projects created in Unreal Engine for the CGD6334 Game Physics course. Includes Assignment 1 and Assignment 2 implementations.
+# CGD6334 Game Physics
+
+This repository contains my Unreal Engine projects for CGD6334 Game Physics.
+
+## Assignment 1
+Create Your First Physics-Based Game
+
+## Assignment 2
+Physics-Based Game with Joints
+
+## Technologies Used
+- Unreal Engine 5
+- Blueprints
+- Physics Constraints
+- Game Physics
+
+## Author
+Abdelrahman Hussien
